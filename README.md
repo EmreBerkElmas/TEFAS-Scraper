@@ -1,2 +1,0 @@
-# TEFAS-Scraper
-demo
